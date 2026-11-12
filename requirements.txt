@@ -1,0 +1,22 @@
+# Core dependencies
+opencv-python
+numpy
+Pillow
+imagehash
+pymongo
+scenedetect
+faiss-cpu
+matplotlib
+pytesseract
+pydub
+python_speech_features
+scikit-learn
+sentence_transformers
+streamlit
+librosa
+ffmpeg-python
+openai-whisper
+pyvis
+langdetect
+# Optional (if using tqdm progress bars or interactive work)
+#tqdm
